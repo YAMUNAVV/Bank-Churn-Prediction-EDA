@@ -1,6 +1,8 @@
 # Bank-Churn-Prediction-EDA
 
 ### Churn Modelling - How to predict if a bank’s customer will stay or leave the bank ###
+![Customer_Churn_Prediction_Models_in_Machine_Learning](https://github.com/YAMUNAVV/Bank-Churn-Prediction-EDA/assets/124666569/7875c4bf-a6e4-48a4-a2d3-682507e227dc)
+
 
   Using a source of 10,000 bank records, we created an app to demonstrate the ability to apply machine learning models to predict the likelihood of customer churn. We accomplished this using the following steps:
 
